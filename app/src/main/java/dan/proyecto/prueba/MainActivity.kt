@@ -19,6 +19,8 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PruebaTheme {
+
+
                 //Daniel
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
