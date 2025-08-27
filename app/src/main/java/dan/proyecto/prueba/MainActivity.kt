@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PruebaTheme {
+                //Daniel
                 //22131298
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
